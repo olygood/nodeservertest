@@ -1,0 +1,18 @@
+{
+  "name": "purenodejs",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "main": "app.js",
+  "ext": "js,json",
+  "watch": [
+    "dist"
+  ],
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "olygood",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-v2": "^1.0.2"
+  }
+}
